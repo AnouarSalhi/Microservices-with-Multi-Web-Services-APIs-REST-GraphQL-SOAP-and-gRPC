@@ -10,6 +10,7 @@ This project is a **Microservices Architecture** that integrates various web ser
 - **GraphQL** (Flexible API query language)
 - **SOAP** (Simple Object Access Protocol)
 - **gRPC** (High-performance RPC framework)
+![REST   SOAP   GraphQL   gRPC](https://github.com/user-attachments/assets/09160480-ed57-434d-acf8-b7d80ef534a1)
 
 The goal of this project is to demonstrate how different API technologies can coexist in a distributed system.
 
